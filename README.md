@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tran Gia Huy</h1>
-<h1 align="center">2011040366</h1>
-<h1 align="center">Khoá 2020 - 2024</h1>
-<h1 align="center">07 - 11 - 2002</h1>
-<h1 align="center">Khoa Công Nghệ Thông Tin</h1>
-<h1 align="center">Chuyên ngành Công Nghệ Phần Mềm</h1>
+<h3 align="center">2011040366</h1>
+<h3 align="center">Khoá 2020 - 2024</h1>
+<h3 align="center">07 - 11 - 2002</h1>
+<h3 align="center">Khoa Công Nghệ Thông Tin</h1>
+<h3 align="center">Chuyên ngành Công Nghệ Phần Mềm</h1>
 <h3 align="center">HUTECH</h3>
 
 
