@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue">Hi 👋, I'm Tran Gia Huy</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Trần Gia Huy</h1>
 <h3 align="center">MSSV: 2011040366</h3>
 <h3 align="center">07 - 11 - 2002</h3>
 <h3 align="center">Khoá: 2020 - 2024</h3>
